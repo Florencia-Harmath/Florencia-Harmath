@@ -34,7 +34,7 @@ Implementación de autenticación y autorización utilizando JWT y Auth0, incluy
 
 ## 🌟 Inspiración y Comunidad
 
-Recomiendo la comunidad [Sala EP](https://example.com) que ofrece reuniones con un mentor, Lucas, quien nos motiva y guía en el mundo del desarrollo web.
+Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que ofrece reuniones con un mentor, Lucas, quien nos motiva y guía en el mundo del desarrollo web.
 
 ## 📫 Contáctame
 
