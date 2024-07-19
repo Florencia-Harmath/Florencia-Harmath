@@ -24,13 +24,18 @@ Soy una desarrolladora backend, con aspiraciones a incursionar en el mundo de la
 ## 📚 Proyectos Destacados
 
 ### Proyecto de Ferias
-Aplicación para organizar ferias donde los usuarios pueden registrarse como vendedores o compradores. Cuenta con funcionalidades de administración para la gestión de usuarios, eventos, vendedores, productos, categorías y programación de ferias.
+API REST para la empresa El Placard De Mi Bebot. La aplicación es una web para organizar ferias, con las siguientes funcionalidades: 
+Autenticación y manejo de tokens con JWT.
+Autenticación con Google.
+Encriptación de contraseñas con Bcrypt.
+Manejo de roles: admin/seller/user.
+Rutas públicas y privadas.
+Verificaciones y manejo de errores.
+Manejo de Git/GitHub.
+Implementación de Swagger para la documentación.. 
 
-### Gestión de Invitaciones
-Sistema desde cero para manejar invitaciones, permitiendo a los usuarios registrarse, iniciar sesión y confirmar asistencia a eventos. Implementado con Vite y NestJS.
-
-### Autenticación y Autorización
-Implementación de autenticación y autorización utilizando JWT y Auth0, incluyendo funcionalidades de recuperación de contraseña, verificación de correo y manejo de roles.
+### Servidor de Ecommerce
+Este proyecto consiste en la lógica backend de un ecommerce, desarrollado con tecnologías modernas y robustas como NestJS, TypeScript, TypeORM, PostgreSQL, Swagger, Bcrypt, JWT y Cloudinary. Su objetivo es proporcionar una API escalable y mantenible para gestionar un ecommerce, ofreciendo funcionalidades tanto para usuarios no autenticados, usuarios registrados y administradores.
 
 ## 🌟 Inspiración y Comunidad
 
@@ -40,6 +45,5 @@ Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que o
 
 - **Email**: [florharmath04@gmail.com](mailto:florharmath04@gmail.com)
 - **LinkedIn**: [linkedin.com/in/florencia-harmath](https://www.linkedin.com/in/florencia-harmath)
-- **GitHub**: [github.com/florenciaharmath](https://github.com/florenciaharmath)
 
 ¡Gracias por visitar mi perfil! Estoy abierta a colaborar en proyectos interesantes y a conectar con otros desarrolladores apasionados. 🚀
