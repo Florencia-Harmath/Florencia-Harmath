@@ -46,4 +46,8 @@ Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que o
 - **Email**: [florharmath04@gmail.com](mailto:florharmath04@gmail.com)
 - **LinkedIn**: [linkedin.com/in/florencia-harmath](https://www.linkedin.com/in/florencia-harmath)
 
+  ## Obten mi curriculum:
+
+  -**Acceder**: [linkedin.com/in/florencia-harmath](https://github.com/Florencia-Harmath/curriculum/blob/main/CV%20Florencia%20Harmath.docx)
+
 ¡Gracias por visitar mi perfil! Estoy abierta a colaborar en proyectos interesantes y a conectar con otros desarrolladores apasionados. 🚀
