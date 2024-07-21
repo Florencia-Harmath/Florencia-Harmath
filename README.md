@@ -52,6 +52,6 @@ Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que o
 
   ## Obten mi curriculum:
 
-  -**Acceder**: [descargar curriculum](https://github.com/Florencia-Harmath/curriculum/blob/main/CV%20Florencia%20Harmath.docx)
+  -**Acceder**: [descargar curriculum](https://github.com/Florencia-Harmath/curriculum/blob/main/CV%20Florencia%20Harmath%20(1).pdf)
 
 ¡Gracias por visitar mi perfil! Estoy abierta a colaborar en proyectos interesantes y a conectar con otros desarrolladores apasionados. 🚀
