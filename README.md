@@ -32,7 +32,11 @@ Manejo de roles: admin/seller/user.
 Rutas públicas y privadas.
 Verificaciones y manejo de errores.
 Manejo de Git/GitHub.
-Implementación de Swagger para la documentación.. 
+Implementación de Swagger para la documentación.
+
+ Puedes ver una demostración del proyecto en el siguiente video de YouTube:
+[Ver video en YouTube](https://youtu.be/6M7p-3dCETA)
+
 
 ### Servidor de Ecommerce
 Este proyecto consiste en la lógica backend de un ecommerce, desarrollado con tecnologías modernas y robustas como NestJS, TypeScript, TypeORM, PostgreSQL, Swagger, Bcrypt, JWT y Cloudinary. Su objetivo es proporcionar una API escalable y mantenible para gestionar un ecommerce, ofreciendo funcionalidades tanto para usuarios no autenticados, usuarios registrados y administradores.
