@@ -41,7 +41,7 @@ Implementación de Swagger para la documentación.
 ### Servidor de Ecommerce
 Este proyecto consiste en la lógica backend de un ecommerce, desarrollado con tecnologías modernas y robustas como NestJS, TypeScript, TypeORM, PostgreSQL, Swagger, Bcrypt, JWT y Cloudinary. Su objetivo es proporcionar una API escalable y mantenible para gestionar un ecommerce, ofreciendo funcionalidades tanto para usuarios no autenticados, usuarios registrados y administradores.
 
-*** Turnero digital
+### Turnero digital
 Este proyecto incluye un frontend desarrollado con ReactJS, Vite y Redux, y un backend construido con ExpressJS, TypeORM y PostgreSQL. Fue una excelente oportunidad para adentrarme en el desarrollo frontend. Aplicando mis conocimientos de backend, creé un servidor robusto y escalable con funcionalidades de registro de usuario, inicio de sesión, creación y cancelación de turnos.
 
 Queda mucho por hacer, entre las próximas características a implementar se incluyen:
