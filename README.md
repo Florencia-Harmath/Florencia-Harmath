@@ -23,7 +23,7 @@ Soy una desarrolladora backend, con aspiraciones a incursionar en el mundo de la
 
 ## Experiencia laboral:
 
-### Teacher Assistant em Soy Henry
+### Teacher Assistant en Soy Henry
 Mi trabajo como Teacher Assistant ha sido guiar a los estudiantes en su carrera de Fullstack Development, especialmente en el desarrollo backend. Proveo soporte técnico y mentoría para asegurar su comprensión y éxito en el desarrollo de proyectos. Colaboro con el equipo docente para mejorar la experiencia de aprendizaje y adaptar las metodologías a las necesidades de los estudiantes.
 
 Herramientas y tecnologías que manejo:
@@ -37,8 +37,7 @@ Herramientas y tecnologías que manejo:
 - ExpressJS
 - Jira
 
-### 
-desarrolladora backend en El PLAC
+### Desarrolladora backend en El PLAC
 API REST para la empresa El Placard De Mi Bebot. La aplicación es una web para organizar ferias, con las siguientes funcionalidades: 
 - Autenticación y manejo de tokens con JWT.
 - Autenticación con Google.
