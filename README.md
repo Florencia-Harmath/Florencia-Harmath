@@ -7,13 +7,13 @@ Soy una desarrolladora backend, con aspiraciones a incursionar en el mundo de la
 - 🌟 Apasionada por el desarrollo backend.
 - 🧠 Aspirante a especialista en inteligencia artificial.
 - 👩‍🏫 Teacher Assistant en la academia SOY HENRY.
-- 🛠️ Experiencia en NestJS, TypeORM, PostgreSQL, MongoDB, Express y más.
+- 🛠️ Experiencia en NodeJS, GOlang y más.
 - 👩‍👧‍👦 Madre de un hijo de 2 años.
 - 🌐 Inspirada por mujeres líderes en tecnología.
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes**: JavaScript, TypeScript
+- **Lenguajes**: JavaScript, TypeScript, GOlang
 - **Backend**: NestJS, Express, Node.js
 - **Bases de Datos**: PostgreSQL, MongoDB
 - **Frontend**: React, CSS Modules
@@ -63,18 +63,18 @@ Herramientas y tecnologías:
 
 ## 📚 Proyectos Destacados
 
+## NODEJS:
+
 ### Servidor de Ecommerce
 Este proyecto consiste en la lógica backend de un ecommerce, desarrollado con tecnologías modernas y robustas como NestJS, TypeScript, TypeORM, PostgreSQL, Swagger, Bcrypt, JWT y Cloudinary. Su objetivo es proporcionar una API escalable y mantenible para gestionar un ecommerce, ofreciendo funcionalidades tanto para usuarios no autenticados, usuarios registrados y administradores.
 
 ### Turnero digital
 Este proyecto incluye un frontend desarrollado con ReactJS, Vite y Redux, y un backend construido con ExpressJS, TypeORM y PostgreSQL. Fue una excelente oportunidad para adentrarme en el desarrollo frontend. Aplicando mis conocimientos de backend, creé un servidor robusto y escalable con funcionalidades de registro de usuario, inicio de sesión, creación y cancelación de turnos.
 
-Queda mucho por hacer, entre las próximas características a implementar se incluyen:
-Autenticación con JWT
-Edición de perfil
-Sección de contacto
-Vista de administrador con todas sus funcionalidades
-Documentación con Swagger
+## GOlang:
+
+### TaskManager
+Este proyecto es un manejador de tareas, desarrollado con GOlang, donde realizo el CRUD de la información. Integré JWT, BCRYPT para la seguridad y autenticación, y utilicé PostgreSQL y Gorm para la base de datos
 
 ## 🌟 Inspiración y Comunidad
 
