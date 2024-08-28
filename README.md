@@ -80,6 +80,8 @@ Este proyecto es un manejador de tareas, desarrollado con GOlang, donde realizo 
 
 Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que ofrece reuniones con un mentor, Lucas, quien nos motiva y guía en el mundo del desarrollo web.
 
+- **Portafolio** : [ver](https://florencia-harmath.github.io/)
+
 ## 📫 Contáctame
 
 - **Email**: [florharmath04@gmail.com](mailto:florharmath04@gmail.com)
