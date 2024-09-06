@@ -76,6 +76,9 @@ Este proyecto incluye un frontend desarrollado con ReactJS, Vite y Redux, y un b
 ### TaskManager
 Este proyecto es un manejador de tareas, desarrollado con GOlang, donde realizo el CRUD de la información. Integré JWT, BCRYPT para la seguridad y autenticación, y utilicé PostgreSQL y Gorm para la base de datos
 
+### MiloIA
+Este proyecto es una sala de chat en tiempo real, desarrollado con GOlang, Gorm, redis, postgreSQL, mux, JWT, Bcrypt entre otras.
+
 ## 🌟 Inspiración y Comunidad
 
 Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que ofrece reuniones con un mentor, Lucas, quien nos motiva y guía en el mundo del desarrollo web.
