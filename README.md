@@ -7,11 +7,11 @@ También soy desarrolladora y admin Salesforce, nivel Ranger
 ## 🚀 Sobre mí
 
 - 🌟 Apasionada por el desarrollo backend.
-- 📚 Plena capacitación Salesforce dev&Admin
+- 📚 Salesforce dev&Admin
 - 🧠 Aspirante a especialista en inteligencia artificial.
 - 👩‍🏫 Teacher Assistant en la academia SOY HENRY.
 - 🛠️ Experiencia en NodeJS, GOlang y más.
-- 👩‍👧‍👦 Madre de un hijo de 2 años.
+- 👩‍👧‍👦 Madre de un hijo de 3 años.
 - 🌐 Inspirada por mujeres líderes en tecnología.
 
 ## 🔧 Tecnologías y Herramientas
