@@ -1,10 +1,13 @@
 # ¡Hola! Soy Florencia Harmath 👋
 
 Soy una desarrolladora backend, con aspiraciones a incursionar en el mundo de la inteligencia artificial. Con experiencia en diversas tecnologías y un fuerte compromiso con la disciplina y la superación constante, estoy en constante búsqueda de aprender y crecer en mi carrera.
+También soy desarrolladora y admin Salesforce, nivel Ranger
+[ver mi perfil de trailblazer](https://www.salesforce.com/trailblazer/florenciaharmath)
 
 ## 🚀 Sobre mí
 
 - 🌟 Apasionada por el desarrollo backend.
+- 📚 Plena capacitación Salesforce dev&Admin
 - 🧠 Aspirante a especialista en inteligencia artificial.
 - 👩‍🏫 Teacher Assistant en la academia SOY HENRY.
 - 🛠️ Experiencia en NodeJS, GOlang y más.
@@ -13,13 +16,13 @@ Soy una desarrolladora backend, con aspiraciones a incursionar en el mundo de la
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes**: JavaScript, TypeScript, GOlang
+- **Lenguajes**: JavaScript, TypeScript, GOlang, Salesforce(Apex, visualforce)
 - **Backend**: NestJS, Express, Node.js
 - **Bases de Datos**: PostgreSQL, MongoDB
 - **Frontend**: React, CSS Modules
 - **Autenticación**: JWT, Auth0
 - **Emailing**: Nodemailer, Handlebars
-- **Otros**: Swagger, Git, Docker
+- **Otros**: Swagger, Git, Docker, Salesforce
 
 ## Experiencia laboral:
 
@@ -37,28 +40,28 @@ Herramientas y tecnologías que manejo:
 - ExpressJS
 - Jira
 
-### Desarrolladora backend en El PLAC
-API REST para la empresa El Placard De Mi Bebot. La aplicación es una web para organizar ferias, con las siguientes funcionalidades: 
+### Desarrolladora fullstack en El PLAC
+Desarrollé la aplicación para la empresa EL PLAC, que les ayudó a ahorrar un 70% del trabajo que realizaban de forma manual. En esta aplicación utilicé PostgreSQL como base de datos, NestJS para el backend y NextJS para el frontend. 
+
 - Autenticación y manejo de tokens con JWT.
 - Autenticación con Google.
 - Encriptación de contraseñas con Bcrypt.
 - Manejo de roles: admin/seller/user.
 - Rutas públicas y privadas.
 - Verificaciones y manejo de errores.
+- Integración con frontend NextJS.
+- Mercado Pago
+- SocketIo
 
 Herramientas y tecnologías:
 - Git/GitHub.
 - Implementación de Swagger para la documentación.
 - API Mercado Pago
-- Cloudinary para el almacenamiento de fotos
 - NestJS para el servidor
 - TypeORM para la interacción con la base de datos
 - PostgreSQL como base de datos relacional
 - TypeScript como lenguaje tipado
-
-  
- Puedes ver una demostración del proyecto en el siguiente video de YouTube:
-[Ver video en YouTube](https://youtu.be/6M7p-3dCETA)
+- SocketIo para la comunicación en tiempo real
 
 
 ## 📚 Proyectos Destacados
@@ -79,16 +82,12 @@ Este proyecto es un manejador de tareas, desarrollado con GOlang, donde realizo 
 ### MiloIA
 Este proyecto es una sala de chat en tiempo real, desarrollado con GOlang, Gorm, redis, postgreSQL, mux, JWT, Bcrypt entre otras.
 
-## 🌟 Inspiración y Comunidad
-
-Recomiendo la comunidad [Sala EP](https://emprendeprogramando.com/sala-ep) que ofrece reuniones con un mentor, Lucas, quien nos motiva y guía en el mundo del desarrollo web.
-
-- **Portafolio** : [ver](https://florencia-harmath.github.io/)
 
 ## 📫 Contáctame
 
 - **Email**: [florharmath04@gmail.com](mailto:florharmath04@gmail.com)
 - **LinkedIn**: [linkedin.com/in/florencia-harmath](https://www.linkedin.com/in/florencia-harmath)
+- **Portafolio** : [ver](https://florencia-harmath.github.io/)
 
   ## Obten mi curriculum:
 
