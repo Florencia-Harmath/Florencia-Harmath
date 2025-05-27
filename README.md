@@ -1,110 +1,110 @@
-# ¡Hola! Soy Florencia Harmath 👋  
+# ¡Hola! Soy Florencia Harmath 👋
 
-🚀 **Backend Developer | Salesforce Admin & Developer**  
+🚀 **Backend Developer | Salesforce Admin & Developer**
 
-Soy una desarrolladora backend con una sólida experiencia en **APIs RESTful, bases de datos y autenticación**. Actualmente, me especializo en **Salesforce**, donde combino mis conocimientos en desarrollo con la capacidad de configuración y automatización de la plataforma.  
+Soy desarrolladora backend con experiencia sólida en **APIs RESTful, bases de datos relacionales y sistemas de autenticación**, actualmente especializada en **Salesforce**, donde combino automatización declarativa y desarrollo con **Apex y SOQL** para construir soluciones escalables.
 
-Mi transición a **Salesforce Development** ha sido natural gracias a mi experiencia en **NestJS, NextJS y bases de datos relacionales**, lo que me permite aprovechar tanto la **lógica declarativa de Salesforce** como su potencial en **Apex y SOQL** para extender funcionalidades cuando es necesario.  
+Mi transición al ecosistema Salesforce fue fluida gracias a mi background técnico en **NestJS, NextJS y PostgreSQL**, lo que me permite aplicar una mirada integral a cada proyecto, adaptándome tanto a necesidades de negocio como técnicas.
 
-📌 **Salesforce Trailhead Ranger** – [Ver mi perfil de Trailblazer](https://www.salesforce.com/trailblazer/florenciaharmath)  
-
----
-
-## 🚀 Sobre mí  
-
-- 🌟 Apasionada por el desarrollo backend y el ecosistema Salesforce.  
-- 📚 **Salesforce Admin & Developer** | Experiencia en **Flow, Process Builder, SOQL y Apex**.  
-- 💡 **Automatización y optimización de procesos en Salesforce y backend**.  
-- 👩‍🏫 **Teacher Assistant en Soy Henry** (Fullstack & Salesforce).  
-- 🛠️ Experiencia en **NodeJS, Golang y Salesforce Development**.  
-- 👩‍👧‍👦 Madre de un hijo de 3 años.  
-- 🌐 Inspirada por mujeres líderes en tecnología.  
+📌 **Trailhead Ranger** – [Ver perfil en Trailblazer](https://www.salesforce.com/trailblazer/florenciaharmath)
 
 ---
 
-## 🔧 Tecnologías y Herramientas  
+## 🚀 Sobre mí
 
-### 🟠 **Salesforce**  
-- **Declarativo:** Flow, Process Builder, Security Model, Reports & Dashboards.  
-- **Desarrollo:** Apex, SOQL, Visualforce, Lightning Components.  
-
-### 🟣 **Backend**  
-- **Lenguajes:** TypeScript, JavaScript, Golang, Apex.  
-- **Frameworks & Librerías:** NestJS, ExpressJS, Node.js.  
-- **Bases de Datos:** PostgreSQL, MongoDB.  
-
-### 🟢 **Frontend & Otras herramientas**  
-- **Frontend:** React, CSS Modules, NextJs.  
-- **Autenticación & Seguridad:** JWT, Auth0, Bcrypt.  
-- **Emailing & APIs:** Nodemailer, Handlebars, Mercado Pago API.  
-- **DevOps & Gestión:** Swagger, Git, Docker, Jira, Trello.  
+* 🌟 Apasionada por el backend y el ecosistema Salesforce.
+* 📚 **Salesforce Admin & Developer**, con experiencia en **Flow, Apex, SOQL, Process Builder y automatización de procesos**.
+* 💡 Foco en eficiencia operativa y escalabilidad tanto en proyectos declarativos como programáticos.
+* 👩‍🏫 Mentora técnica en **bootcamps de Fullstack & Salesforce (Soy Henry)**.
+* 🛠️ Conocimiento práctico en **NodeJS, Golang, Apex y entornos cloud**.
+* 👩‍👧 Madre multitasking de un hijo de 3 años 💪.
+* 🌐 Motivada por el liderazgo femenino en tecnología.
 
 ---
 
-## 💼 Experiencia Laboral  
+## 🔧 Tecnologías y Herramientas
 
-### 🔹 **Salesforce Admin & Developer | Incompany** *(Práctica Profesional)*  
-📅 03/2025 – Actualidad  
-🛠️ **Tecnologías:** Salesforce Education Cloud, Flow, Process Builder, Reports & Dashboards, Security Model, SOQL.  
+### 🟠 Salesforce
 
-- Implementación de **Salesforce Education Cloud** con herramientas declarativas.  
-- Automatización de procesos con **Flow y Process Builder**.  
-- Configuración de modelos de seguridad y permisos en **perfiles y roles**.  
-- Creación de reportes y dashboards personalizados en Salesforce.  
-- Uso de **SOQL** y personalización de objetos estándar y personalizados.  
+* **Declarativo:** Flow, Process Builder, Validation Rules, Security Model, Reports & Dashboards
+* **Desarrollo:** Apex, SOQL, Visualforce, LWC, Triggers
 
----
+### 🔣 Backend
 
-### 🔹 **Desarrolladora Fullstack | El Placard de mi Bebot** *(Freelancer)*  
-📅 06/2024 – 03/2025  
-🛠️ **Tecnologías:** NestJS, JWT, PostgreSQL, TypeScript, TypeORM, NextJS, Tailwind, Mercado Pago, SocketIO.  
+* **Lenguajes:** TypeScript, JavaScript, Golang, Apex
+* **Frameworks:** NestJS, ExpressJS, Node.js
+* **Bases de datos:** PostgreSQL, MongoDB
 
-- Desarrollo y mantenimiento de **APIs REST** con **NestJS**.  
-- Implementación de **autenticación y autorización** con **JWT**.  
-- Integración de pagos con **Mercado Pago** y comunicación en tiempo real con **SocketIO**.  
-- Gestión y optimización de bases de datos en **PostgreSQL**.  
-- Desarrollo frontend con **NextJS y Tailwind**.
-- Aplicación que logró optimizar en un 100% las funcionalidades de los administradores y de los usuarios, que anteriormente utilizaban planillas de excel y se comunicaban mediante mails con los más de 100 clientes, esta página logró unificar toda la información y el manejo de datos de la empresa en un solo lugar, brindándo una mejor organización tanto a los administradores como los usuairos finales. 
+### 🟢 Frontend & Herramientas
+
+* **Frontend:** ReactJS, NextJS, CSS Modules, TailwindCSS
+* **Seguridad & APIs:** JWT, Auth0, Bcrypt, Mercado Pago API, Nodemailer
+* **DevOps & Gestión:** Docker, Swagger, Git/GitHub, Jira, Trello
 
 ---
 
-### 🔹 **Teacher Assistant | Soy Henry** *(Mentoría Técnica en Fullstack & Salesforce)*  
-📅 05/2024 – 07/2024  
-🛠️ **Tecnologías:** Express, PostgreSQL, NestJS, MongoDB, TypeScript, ReactJS, NextJs entre otros.  
+## 💼 Experiencia Profesional
 
-- Mi trabajo como Teacher Assistant ha sido guiar a los estudiantes en su carrera de Fullstack Development, especialmente en el desarrollo backend. Proveo soporte técnico y mentoría para asegurar su comprensión y éxito en el desarrollo de proyectos. Colaboro con el equipo docente para mejorar la experiencia de aprendizaje y adaptar las metodologías a las necesidades de los estudiantes.  
+### 🔹 Salesforce Admin & Developer | Incompany *(Pasantía)*
 
----
+📅 03/2025 – Actualidad
+🛠️ *Salesforce Education Cloud, Flow, Apex, Reports, Security Model*
 
-## 📚 Proyectos Destacados  
+* Implementación y personalización de procesos en **Education Cloud y Automotive Cloud**.
+* Automatización de flujos de admisión, seguimiento estudiantil y vinculación empresarial con **Flow y Apex**.
+* Participación activa en equipos **Scrum**, con dailys, planning y contacto directo con el cliente.
+* Diseño de **dashboards estratégicos y reportes** para campañas, becas y métricas de ROI.
 
-### 🟠 **Salesforce: Implementación de Education Cloud** *(Incompany)*  
-📌 **Detalles:** Configuración y personalización de **Education Cloud**, automatización de procesos con **Flow y Process Builder**, y gestión de seguridad con **perfiles y roles**.  
+### 🔹 Desarrolladora Fullstack | El Placard de Mi Bebot *(Freelance)*
 
-### 🟣 **NODEJS: Servidor de Ecommerce**  
-📌 **Detalles:** Backend de un ecommerce desarrollado con **NestJS, TypeScript, TypeORM, PostgreSQL, Swagger, JWT y Cloudinary**.  
+📅 06/2024 – 03/2025
+🛠️ *NestJS, PostgreSQL, NextJS, Mercado Pago, SocketIO*
 
-### 🟢 **NODEJS: Turnero Digital**  
-📌 **Detalles:** Sistema de gestión de turnos con **ExpressJS, MongoDB, Mongoose, TypeScript y ReactJS**.  
+* Desarrollo fullstack desde cero de una plataforma de gestión de ferias con múltiples actores y flujos personalizados.
+* Backend robusto con autenticación JWT, lógica de roles, y carga masiva de productos por evento.
+* Frontend responsive en NextJS + Tailwind y sistema de pagos integrados con Mercado Pago.
+* Migración exitosa desde planillas y formularios manuales a un sistema unificado con administración centralizada.
 
-### 🔵 **GOlang: TaskManager**  
-📌 **Detalles:** CRUD de tareas con **Go, JWT, Bcrypt, PostgreSQL y Gorm**.  
+### 🔹 Teacher Assistant | Soy Henry *(Mentoría técnica Fullstack & Salesforce)*
 
-### 🟠 **GOlang: MiloIA (Chat en Tiempo Real con IA)** *(En desarrollo)*  
-📌 **Detalles:** Chat en tiempo real con **Go, Redis, PostgreSQL, JWT, Bcrypt y MUX**.  
+📅 05/2024 – 07/2024
 
----
-
-## 📫 Contáctame  
-
-- **Email:** [florharmath04@gmail.com](mailto:florharmath04@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/florencia-harmath](https://www.linkedin.com/in/florencia-harmath)  
-- **Portafolio:** [ver](https://florencia-harmath.github.io/)  
-
-📌 **Obten mi currículum:**  
-- **Descargar:** [Curriculum PDF](https://github.com/Florencia-Harmath/curriculum/blob/main/CV%20Florencia%20Harmath.pdf)  
+* Guía técnica para estudiantes de backend, revisión de proyectos, debugging y acompañamiento en bootcamps.
+* Coordinación con docentes y adaptación de recursos según el progreso del grupo.
 
 ---
 
-🎯 **¡Gracias por visitar mi perfil!** Estoy abierta a **colaboraciones** en proyectos interesantes y a **conectar con otros desarrolladores** apasionados por **Salesforce y backend**. 🚀  
+## 📚 Proyectos Destacados
 
+### 🟠 Salesforce: Implementación Education Cloud *(Incompany)*
+
+* Automatización completa de procesos educativos, desde campañas hasta matrícula.
+
+### 🔣 NODEJS: Servidor de Ecommerce
+
+* Backend de ecommerce con **NestJS, PostgreSQL, JWT y Swagger**.
+
+### 🟢 NODEJS: Turnero Digital
+
+* Sistema de gestión de turnos con **ExpressJS, React, MongoDB y TypeScript**.
+
+### 🔹 GOlang: TaskManager
+
+* CRUD de tareas con autenticación usando **Go, Gorm, PostgreSQL**.
+
+### 🟠 GOlang: MiloIA (en desarrollo)
+
+* Chat con IA en tiempo real usando **Go, Redis, PostgreSQL y MUX**.
+
+---
+
+## 📢 Contáctame
+
+* 📧 [florharmath04@gmail.com](mailto:florharmath04@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/florencia-harmath)
+* 🌐 [Portafolio Web](https://florencia-harmath.github.io)
+* 📄 [Descargar CV](https://github.com/Florencia-Harmath/curriculum/blob/main/CV%20Florencia%20Harmath.pdf)
+
+---
+
+🎯 ¡Gracias por visitar mi perfil! Estoy abierta a **colaborar en proyectos desafiantes**, especialmente donde se crucen **Salesforce, backend y procesos de automatización**. 🚀
