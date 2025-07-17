@@ -45,28 +45,39 @@ Mi transición al ecosistema Salesforce fue fluida gracias a mi background técn
 
 ## 💼 Experiencia Profesional
 
-### 🔹 Salesforce Admin & Developer | Incompany *(Pasantía)*
 
-📅 03/2025 – Actualidad
+### 🔹 Salesforce Admin & Developer | Incompany
+📅 01/2025 – Actualidad
 🛠️ *Salesforce Education Cloud, Flow, Apex, Reports, Security Model*
 
-* Implementación y personalización de procesos en **Education Cloud y Automotive Cloud**.
-* Automatización de flujos de admisión, seguimiento estudiantil y vinculación empresarial con **Flow y Apex**.
-* Participación activa en equipos **Scrum**, con dailys, planning y contacto directo con el cliente.
-* Diseño de **dashboards estratégicos y reportes** para campañas, becas y métricas de ROI.
+• Implementación y personalización de soluciones en Education Cloud y Automotive Cloud para instituciones educativas y del sector automotriz.
+• Participación activa en proyectos reales de clientes: diseño de procesos complejos, integración de formularios Web-to-Lead y Web-to-Case, automatizaciones con Flow y desarrollo en Apex.
+• Generación de reportes y dashboards estratégicos para el seguimiento de métricas clave (inscripción, conversión, ROI, prácticas profesionales).
+• Trabajo colaborativo en equipo Scrum con dailys, planning, y seguimiento con PMs y clientes finales.
+• Contribuciones a procesos de mejora continua en la organización, proponiendo nuevas soluciones técnicas y automatizaciones escalables.
+• Asumo funciones propias de consultoría funcional, liderando procesos de negocio de punta a punta.
+
+
+### 🔹 Mentora de Salesforce Developer |TalentoTech – Gobierno de la Ciudad de Buenos Aires
+📅 05/2025 – Actualidad
+🛠️ Salesforce Platform, Apex, Triggers, SOQL, Flow Builder, Developer Console
+
+• Mentoria técnica para desarrolladores con experiencia previa en otras tecnologías, en alianza con el Gobierno CABA. Diseño e implementación de clases orientadas a Apex, Visualforce, contrucción de Lightning Web Component, Security Model, uso de Postman y Visual Studio Code, buenas prácticas y testing.
+
 
 ### 🔹 Desarrolladora Fullstack | El Placard de Mi Bebot *(Freelance)*
-
 📅 06/2024 – 03/2025
 🛠️ *NestJS, PostgreSQL, NextJS, Mercado Pago, SocketIO*
 
-* Desarrollo fullstack desde cero de una plataforma de gestión de ferias con múltiples actores y flujos personalizados.
-* Backend robusto con autenticación JWT, lógica de roles, y carga masiva de productos por evento.
-* Frontend responsive en NextJS + Tailwind y sistema de pagos integrados con Mercado Pago.
-* Migración exitosa desde planillas y formularios manuales a un sistema unificado con administración centralizada.
+• Desarrollo fullstack completo de la aplicación EL PLAC, una plataforma profesional de gestión de ferias, finalizada tras un año de trabajo. Automatiza procesos de inscripción, clasificación de productos y gestión de usuarios, antes realizados manualmente con Excel y correos.
+• Implementación del backend robusto en NestJS con autenticación segura JWT, lógica por roles y control transaccional de productos y usuarios.
+• Optimización de consultas y diseño de base de datos relacional en PostgreSQL con TypeORM.
+• Integración del frontend en NextJS con una UI responsive y fluida, desarrollada con TailwindCSS.
+• Configuración e integración de pagos mediante Mercado Pago, y sistema de notificaciones en tiempo real con SocketIO.
+• Implementación de lógica personalizada para múltiples ferias activas en simultáneo y procesos de activación/desactivación automática según cronograma del cliente.
+
 
 ### 🔹 Teacher Assistant | Soy Henry *(Mentoría técnica Fullstack & Salesforce)*
-
 📅 05/2024 – 07/2024
 
 * Guía técnica para estudiantes de backend, revisión de proyectos, debugging y acompañamiento en bootcamps.
